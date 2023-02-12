@@ -15,8 +15,9 @@
 
 ### Мой стек технологий:
 
+<img align="left" alt="JS" width="50px" src="https://p.kindpng.com/picc/s/171-1718046_javascript-programming-language-logo-hd-png-download.png">
 <img align="left" alt="React" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png">
-<img align="left" alt="Redux" width="50px" src="https://banner2.cleanpng.com/20180511/zie/kisspng-redux-react-javascript-vue-js-single-page-applicat-5af5cde3d3a5e8.2671715915260584678669.jpg>
+<img align="left" alt="Redux" width="50px" src="https://assets.stickpng.com/thumbs/62c536ab3a321dd181302f81.png">
 <img align="left" alt="CSS3" width="50px" src="https://e7.pngegg.com/pngimages/893/87/png-clipart-web-development-html-cascading-style-sheets-css3-bootstrap-minimalist-resume-blue-angle-thumbnail.png">
 <img align="left" alt="HTML5" width="50px" src="https://www.citypng.com/public/uploads/preview/html5-logo-icon-3d-hd-png-11664330368ddgc1rombr.png">
 <img align="left" alt="NODE JS" width="50px" src="https://img2.freepng.ru/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
